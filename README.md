@@ -1,5 +1,4 @@
 # BERT-senti
-#Here's a basic template for your GitHub repository's README.md file:
 
 ---
 
