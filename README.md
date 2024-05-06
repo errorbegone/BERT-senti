@@ -27,7 +27,7 @@ Sentiment analysis aims to determine the sentiment expressed in a piece of text,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/multilingual-sentiment-analysis.git
+git clone https://github.com/errorbegone/multilingual-sentiment-analysis.git
 ```
 
 2. Install dependencies:
