@@ -66,5 +66,3 @@ python evaluate.py
 - [Google Research](https://ai.google/research) for BERT.
 
 ---
-
-Feel free to customize this template further to include additional sections or details specific to your project!
